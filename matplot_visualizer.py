@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
 # Path to point cloud binaries
-basedir = '/home/zeyad/Downloads/sample_scene/'
+basedir = './sample_scene/'
 date = 'dir'
 drive = '0002'
 
